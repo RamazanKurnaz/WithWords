@@ -17,4 +17,4 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyi
 1. **Bağımlılıkları Yükleyin**:
    ```bash
    npm install
-   npm dev run
+   npm run dev
