@@ -9,7 +9,9 @@
 2. **Kelime Düzeltme**: Size verilen kelimeyi doğru hale getirmek için en kısa sürede en az hamle ile düzeltmeye çalışın. Bazen şansınıza bağlı olarak kelime doğru haliyle gelebilir.
 3. **Zaman Sınırı**: 1 dakika içinde ne kadar kelimeyi başarılı bir şekilde düzeltebileceğinizi ölçün ve en yüksek skoru hedefleyin!
 
-## Demo :https://withwords.vercel.app/ 
+## Ekran Fotografları
+![App'in içeriği](/public/5.png)
+
 ## Başlangıç
 
 Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyin:
